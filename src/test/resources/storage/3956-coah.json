@@ -1,0 +1,527 @@
+{"content": {"hotel": {
+    "images": {
+        "image": [
+            {
+                "alt": "",
+                "width": "0",
+                "priority": "1",
+                "title": "",
+                "category": "",
+                "url": "https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/coah/3956/image001.jpg",
+                "height": "0"
+            },
+            {
+                "alt": "",
+                "width": "0",
+                "priority": "2",
+                "title": "",
+                "category": "",
+                "url": "https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/coah/3956/image002.jpg",
+                "height": "0"
+            },
+            {
+                "alt": "",
+                "width": "0",
+                "priority": "3",
+                "title": "",
+                "category": "",
+                "url": "https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/coah/3956/image003.jpg",
+                "height": "0"
+            },
+            {
+                "alt": "",
+                "width": "0",
+                "priority": "4",
+                "title": "",
+                "category": "",
+                "url": "https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/coah/3956/image004.jpg",
+                "height": "0"
+            },
+            {
+                "alt": "",
+                "width": "0",
+                "priority": "5",
+                "title": "",
+                "category": "",
+                "url": "https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/coah/3956/image005.jpg",
+                "height": "0"
+            },
+            {
+                "alt": "",
+                "width": "0",
+                "priority": "6",
+                "title": "",
+                "category": "",
+                "url": "https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/coah/3956/image006.jpg",
+                "height": "0"
+            },
+            {
+                "alt": "",
+                "width": "0",
+                "priority": "7",
+                "title": "",
+                "category": "",
+                "url": "https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/coah/3956/image007.jpg",
+                "height": "0"
+            },
+            {
+                "alt": "",
+                "width": "0",
+                "priority": "8",
+                "title": "",
+                "category": "",
+                "url": "https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/coah/3956/image008.jpg",
+                "height": "0"
+            },
+            {
+                "alt": "",
+                "width": "0",
+                "priority": "9",
+                "title": "",
+                "category": "",
+                "url": "https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/coah/3956/image009.jpg",
+                "height": "0"
+            },
+            {
+                "alt": "",
+                "width": "0",
+                "priority": "10",
+                "title": "",
+                "category": "",
+                "url": "https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/coah/3956/image010.jpg",
+                "height": "0"
+            },
+            {
+                "alt": "",
+                "width": "0",
+                "priority": "11",
+                "title": "",
+                "category": "",
+                "url": "https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/coah/3956/image011.jpg",
+                "height": "0"
+            },
+            {
+                "alt": "",
+                "width": "0",
+                "priority": "12",
+                "title": "",
+                "category": "",
+                "url": "https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/coah/3956/image012.jpg",
+                "height": "0"
+            },
+            {
+                "alt": "",
+                "width": "0",
+                "priority": "13",
+                "title": "",
+                "category": "",
+                "url": "https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/coah/3956/image013.jpg",
+                "height": "0"
+            },
+            {
+                "alt": "",
+                "width": "0",
+                "priority": "14",
+                "title": "",
+                "category": "",
+                "url": "https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/coah/3956/image014.jpg",
+                "height": "0"
+            },
+            {
+                "alt": "",
+                "width": "0",
+                "priority": "15",
+                "title": "",
+                "category": "",
+                "url": "https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/coah/3956/image0xx.jpg",
+                "height": "0"
+            },
+            {
+                "alt": "",
+                "width": "0",
+                "priority": "16",
+                "title": "",
+                "category": "",
+                "url": "https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/coah/3956/image016.jpg",
+                "height": "0"
+            },
+            {
+                "alt": "",
+                "width": "0",
+                "priority": "17",
+                "title": "",
+                "category": "",
+                "url": "https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/coah/3956/image017.jpg",
+                "height": "0"
+            },
+            {
+                "alt": "",
+                "width": "0",
+                "priority": "18",
+                "title": "",
+                "category": "",
+                "url": "https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/coah/3956/image018.jpg",
+                "height": "0"
+            },
+            {
+                "alt": "",
+                "width": "0",
+                "priority": "19",
+                "title": "",
+                "category": "",
+                "url": "https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/coah/3956/image019.jpg",
+                "height": "0"
+            },
+            {
+                "alt": "",
+                "width": "0",
+                "priority": "20",
+                "title": "",
+                "category": "",
+                "url": "https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/coah/3956/image020.jpg",
+                "height": "0"
+            }
+        ],
+        "katalogname": "",
+        "katalogid": "",
+        "sourceLong": "",
+        "source": ""
+    },
+    "address": {
+        "zip": "4180",
+        "country": "TN",
+        "city": "Midoun",
+        "formatted": {"line": [
+            "Zone Touristique",
+            "Midoun 4180",
+            "BP 376-4180",
+            "Djerba"
+        ]}
+    },
+    "latitude": "33.833064824103",
+    "iff": "6494",
+    "additionalTexts": "",
+    "videos": {"video": {
+        "urls": {"url": {
+            "type": "video/mp4",
+            "content": "https://scdn.thomascook.com/videos/accommodation/SunConnect_Djerba_Aqua Resort-3tro4aa-DaJo_MaTe.mp4"
+        }},
+        "hasPlayer": "false",
+        "source": "CR",
+        "priority": "1"
+    }},
+    "hotelAwards": "",
+    "url": "http://en.sun-connect-aqua-resort.com/",
+    "giata_id": "3956",
+    "update_timestamp": "2019-03-06 05:24:35",
+    "texts": {"text": {
+        "paragraph": [
+            {
+                "description": "",
+                "headline": "TCHR_Hotel_Title_xx",
+                "content": "SunConnect Djerba Aqua Resort"
+            },
+            {
+                "description": "",
+                "headline": "TCHR_Hotel_Subtitle_xx",
+                "content": "Badespaß für die ganze Familie in Djerba, Tunesien"
+            },
+            {
+                "description": "",
+                "headline": "TCHR_Hotel_Opening_Hours_xx",
+                "content": "geöffnet: ganzjährig"
+            },
+            {
+                "description": "",
+                "headline": "TCHR_Hotel_Headline_xx",
+                "content": "Entspannung und Action im Vier-Sterne-Hotel"
+            },
+            {
+                "description": "",
+                "headline": "TCHR_Hotel_Description_xx",
+                "content": "Erholung und gleichzeitig jede Menge Abwechslung. Was kann man sich mehr für den Urlaub wünschen? Familien können sich über die fantastischen Wasserrutschen wie die Kamikaze Wasserrutsche und eine mit viel Liebe arrangierte Poollandschaft mit einem Piratenschiff freuen. Unser hauseigenes Thalassozentrum bietet ein herrliches Verwöhnprogramm.Davon können Sie dann gleich Ihren Lieben zuhause berichten, denn das SunConnect Djerba Aqua Resort verfügt über kostenloses WLAN im gesamten Hotel. Auch im Resort selbst haben Sie die Möglichkeit, neue Kontakte zu knüpfen: Die Anlage hat eine hoteleigene Onlineplattform, auf der Sie sich mit anderen Gästen austauschen und Gleichgesinnte finden können.Außerdem Teil des 4-Sterne-Hotels:&lt;ul&gt;  &lt;li&gt;Geräumige Zimmer&lt;/li&gt;  &lt;li&gt;Thalasso Spa&lt;/li&gt;  &lt;li&gt;Spaß und Aktivitäten für alle Altersgruppen&lt;/li&gt;  &lt;li&gt;Großartige Auswahl an Bars und Restaurants&lt;/li&gt;  &lt;li&gt;Servicepersonal spricht Deutsch, Französisch, Englisch und Italienisch&lt;/li&gt;&lt;/ul&gt;"
+            },
+            {
+                "description": "",
+                "headline": "TCHR_Location_Headline_xx",
+                "content": "In direkter Nähe zu Strand und Shopping"
+            },
+            {
+                "description": "",
+                "headline": "TCHR_Location_Description_xx",
+                "content": "Das SunConnect Djerba Aqua Resort liegt in einer Entfernung von nur 250 Meter von einem traumhaften Strand. Es befindet sich an der Nordostküste von Djerba in Tunesien und ist ein echter Allrounder.Im nur 6 km entfernten Ferienort Midoun gibt es Bars, Restaurants und Einkaufsmöglichkeiten. Auf dem Markt von Midoun können Sie nicht nur traditionell tunesisches Kunsthandwerk, sondern auch orientalische Gewürze erstehen. So haben auch die Daheimgebliebenen etwas von Ihrem Urlaub im SunConnect Djerba Aqua Resort in Tunesien."
+            },
+            {
+                "description": "",
+                "headline": "TCHR_Room_Headline_xx",
+                "content": "Garantiert die perfekte Option für Ihre Familie"
+            },
+            {
+                "description": "",
+                "headline": "TCHR_Room_Description_xx",
+                "content": "Die 309 geräumigen Zimmer des SunConnect Djerba Aqua Resort sind in fünf Kategorien in komfortablem Stilm, um den Gästen beim Entspannen zu helfen:  <P level=\"1\">Einzelzimmer (ca. 33 m²) <P level=\"1\">Doppelzimmer (ca. 38 m²) <P level=\"1\">Familienzimmer (ca. 38\u201344 m²) <P level=\"1\">Superiorzimmer (ca. 46 m²) <P level=\"1\">Familienzimmer mit zwei Schlafzimmern (ca. 50 m²) <P level=\"1\">Apartments (ca. 110 m²)  Alle Zimmertypen sind komplett ausgestattet mit folgender Einrichtung:  <P level=\"1\">Kühlschrank <P level=\"1\">Klimaanlage (ca. Mitte Juni bis Mitte September) <P level=\"1\">Safe <P level=\"1\">SAT-TV <P level=\"1\">WLAN (inklusive) <P level=\"1\">Telefon <P level=\"1\">Badewanne mit integrierter Dusche <P level=\"1\">WC <P level=\"1\">Balkon oder Terrasse  Die Apartments verfügen über einen Wohn-/Schlafraum, zwei Schlafzimmer, zwei Bäder (mit Badewanne und Dusche). Die Superiorzimmer und Familien-Duplex-Zimmer befinden sich im Thalassogebäude."
+            },
+            {
+                "description": "",
+                "headline": "TCHR_Restaurants_Headline_xx",
+                "content": "Kulinarische Vielfalt für Groß und Klein"
+            },
+            {
+                "description": "",
+                "headline": "TCHR_Restaurants_Description_xx",
+                "content": "Genießen Sie zum Ausklang eines besonderen Tages Ihres Aufenthalts ein köstliches Gericht von der Karte in unserem Restaurant im SunConnect Djerba Aqua Resort. Es lädt in entspannter Atmosphäre zu einem ruhigen Abendessen ein (nur mit Reservierung).Außerdem gibt es ein All-inclusive-Angebot. Zu den Hauptmahlzeiten können Sie an unseren abwechslungsreichen Büfetts mit regionalen und internationalen Speisen nach Herzenslust schlemmen. Zudem umfasst das All-inclusive-Angebot folgende Leistungen:&lt;ul&gt;  &lt;li&gt;kontinentales Langschläferfrühstück von 10:00 bis 11:00 Uhr&lt;/li&gt;  &lt;li&gt;Snacks am späten Nachmittag&lt;/li&gt;  &lt;li&gt;lokale alkoholische und alkoholfreie Getränke von 09:00 bis 24:00 Uhr&lt;/li&gt;&lt;/ul&gt;"
+            },
+            {
+                "description": "",
+                "headline": "TCHR_Beach_and_Pool_Headline_xx",
+                "content": "Viel Liebe zum Detail"
+            },
+            {
+                "description": "",
+                "headline": "TCHR_Beach_and_Pool_Description_xx",
+                "content": "Das familienfreundliche Hotel SunConnect Djerba Aqua wartet mit einem ausgezeichneten Süßwasserpool, einem Kinderpool und einem Innenpool und Spa-Bereich auf. Ein großartiges Highlight ist der neue Aquapark mit ganzen 13 Wasserrutschen sowie Wellenpool, Lazy River und Piratenschiff. Hier kann sich Ihr Nachwuchs so richtig austoben, während Sie an der Poolbar oder auf einer der kostenlosen Sonnenliegen zur Ruhe kommen. Sonnenschirme und Liegen erhalten Sie kostenlos. Badetücher werden gegen eine Kaution ausgegeben. Der nächstgelegene Strand ist Djerba Strand in nur 300 Metern."
+            },
+            {
+                "description": "",
+                "headline": "TCHR_Activities_Headline_xx",
+                "content": "Langeweile? Fehlanzeige!"
+            },
+            {
+                "description": "",
+                "headline": "TCHR_Activities_Description_xx",
+                "content": "Professionelle Tages- und Abendanimationen sorgen für Unterhaltung. Damit Sie nichts verpassen, hält Sie die Online-Plattform &lt;a href=\"djerbaaqua.sunconnect.eu\">My SunConnect&lt;/a> vor Ort auf dem Laufenden. Im Reisepreis inbegriffen sind darüber hinaus folgende sportliche Aktivitäten des SunConnect Djerba Aqua Resort: <P level=\"1\">Aerobic <P level=\"1\">Basketball <P level=\"1\">Beachvolleyball <P level=\"1\">Boccia <P level=\"1\">Handball <P level=\"1\">Tischtennis <P level=\"1\"> 4 Tennisplätze Gegen eine Gebühr können Sie auch folgende Angebote nutzen: <P level=\"1\">Mountainbike <P level=\"1\">Billard Der Strand liegt nur 250 Meter entfernt. Dort können Sie über lokale Anbieter Reitausflüge und zahlreiche Wassersportaktivitäten buchen (witterungsabhängig)."
+            },
+            {
+                "description": "",
+                "headline": "TCHR_Wellness_Headline_xx",
+                "content": "Entspannung auf höchstem Niveau"
+            },
+            {
+                "description": "",
+                "headline": "TCHR_Wellness_Description_xx",
+                "content": "Im Thalassozentrum des SunConnect Djerba Aqua Resort können Sie gegen eine Gebühr verschiedene Wellness-Behandlungen in Anspruch nehmen. Zudem bietet das 4-Sterne Hotel ein Dampfbad, einen Kosmetiksalon mit Friseur und verschiedene Massagen (alles gegen Gebühr vor Ort)."
+            },
+            {
+                "description": "",
+                "headline": "TCHR_Family_Headline_xx",
+                "content": "Ein absolutes Paradies für Kinder"
+            },
+            {
+                "description": "",
+                "headline": "TCHR_Family_Description_xx",
+                "content": "Während Sie sich ein wenig ausruhen, können Sie sicher sein, dass Ihre Kinder Spaß haben. Für die Teenager steht ein Chill-out-Bereich zur Verfügung, wo sie mit Gleichaltrigen in Kontakt kommen können. Wenn die Kleinen unter sich planschen möchten, freut ein separates Kinderbecken sich auf ihren Besuch."
+            },
+            {
+                "description": "",
+                "headline": "TCHR_Meta_Headline_xx",
+                "content": "SunConnect Djerba Aqua Resort \u2013 Djerba, Tunesien"
+            },
+            {
+                "description": "",
+                "headline": "TCHR_Meta_Description_xx",
+                "content": "Das mit 4 Sternen ausgezeichnete SunConnect Djerba Aqua Resort auf der tunesischen Ferieninsel Djerba bietet Spaß und Entspannung für Familien, Freunde und Paare."
+            },
+            {
+                "description": "",
+                "headline": "Importkenner_xx"
+            }
+        ],
+        "tourOperatorLong": "",
+        "name": "",
+        "tourOperator": "TCHR",
+        "source": "TCHR",
+        "id": "",
+        "copyrightText": "<br><br><strong>Bitte beachten Sie bei einer Buchung, dass nur die Hotelbeschreibung des gebuchten Veranstalters/Vermittlers und Angebotes Gültigkeit hat. Diese können Sie nach Wahl Ihres Angebotes unter \"Angebotsdetails\" einsehen. Es ist möglich, dass in Einzelfällen nicht alle Veranstalter/Vermittler Hotelbeschreibungen ausweisen.<\/strong><br><br><strong>Hotelbeschreibung des Veranstalters/Vermittlers: <\/strong><br>"
+    }},
+    "phone": "+21675732600",
+    "ratings": {
+        "reviews": "418",
+        "detailedRating": {
+            "foodRating": {
+                "single": "4.5",
+                "couple": "4.71429",
+                "other": "5.25",
+                "beach": "4.27778",
+                "overall": "4.45455",
+                "wintersport": "0.0",
+                "family": "4.27273",
+                "friends": "0.0"
+            },
+            "hotelRating": {
+                "single": "4.0",
+                "couple": "4.57143",
+                "other": "5.0",
+                "beach": "4.16667",
+                "overall": "4.26087",
+                "wintersport": "3.0",
+                "family": "4.27273",
+                "friends": "3.0"
+            },
+            "averageRating": {
+                "single": "4.0",
+                "couple": "3.88889",
+                "other": "5.0",
+                "beach": "3.7619",
+                "overall": "3.92308",
+                "wintersport": "3.0",
+                "family": "4.0",
+                "friends": "3.0"
+            },
+            "recommendation": {
+                "single": "75.0",
+                "couple": "55.555557",
+                "other": "75.0",
+                "beach": "57.142857",
+                "overall": "61.53846",
+                "wintersport": "100.0",
+                "family": "58.333332",
+                "friends": "100.0"
+            },
+            "serviceRating": {
+                "single": "4.0",
+                "couple": "5.28571",
+                "other": "5.75",
+                "beach": "4.58824",
+                "overall": "4.80952",
+                "wintersport": "0.0",
+                "family": "4.8",
+                "friends": "0.0"
+            },
+            "locationRating": {
+                "single": "4.25",
+                "couple": "5.0",
+                "other": "5.25",
+                "beach": "4.55556",
+                "overall": "4.6087",
+                "wintersport": "3.0",
+                "family": "4.63636",
+                "friends": "3.0"
+            },
+            "roomRating": {
+                "single": "3.25",
+                "couple": "4.14286",
+                "other": "5.5",
+                "beach": "3.61111",
+                "overall": "3.91304",
+                "wintersport": "3.0",
+                "family": "4.09091",
+                "friends": "3.0"
+            },
+            "sportRating": {
+                "single": "3.66667",
+                "couple": "4.28571",
+                "other": "4.5",
+                "beach": "4.23529",
+                "overall": "4.18182",
+                "wintersport": "2.0",
+                "family": "4.45455",
+                "friends": "2.0"
+            }
+        },
+        "hc_id": "36248",
+        "rating": "3.9",
+        "recommendation_rate": "61.5",
+        "source": "HolidayCheck",
+        "url": "http://www.holidaycheck.com/hr/16fc535e-38c7-3e07-a3f3-3b915a89ef62"
+    },
+    "usps": {"hotelAttributes": {
+        "source": "HolidayCheck",
+        "attribute": [
+            {
+                "rating": "4.80952",
+                "priority": "0",
+                "content": "aufmerksamer Service"
+            },
+            {
+                "rating": "4.6087",
+                "priority": "1",
+                "content": "gute Lage"
+            }
+        ]
+    }},
+    "name": "SunConnect Djerba Aqua Resort",
+    "country_name": "",
+    "attributes": {
+        "source": "GIATA",
+        "category": [
+            {
+                "name": "facilities",
+                "attribute": [
+                    "Café",
+                    "Minimarkt",
+                    "Geschäfte",
+                    "Friseur",
+                    "Bar(s)",
+                    "Disco",
+                    "Spielzimmer",
+                    "Restaurant(s)",
+                    "Konferenzraum",
+                    "WLAN-Internet",
+                    "Zimmerservice",
+                    "Wäscheservice",
+                    "Fahrradverleih (gegen Gebühr)",
+                    "Parkplatz",
+                    "Miniclub",
+                    "Spielplatz"
+                ]
+            },
+            {
+                "name": "room_facilities",
+                "attribute": [
+                    "Badezimmer",
+                    "Dusche",
+                    "Badewanne",
+                    "Haartrockner",
+                    "Internetzugang",
+                    "Minibar",
+                    "Kühlschrank",
+                    "Klimaanlage (zentral geregelt)",
+                    "Zentralheizung",
+                    "Safe",
+                    "Balkon/Terrasse",
+                    "TV",
+                    "Doppelbett"
+                ]
+            },
+            {
+                "name": "sports_entertainment",
+                "attribute": [
+                    "Hallenbad",
+                    "Außenpool(s)",
+                    "Kinderpool/-bereich",
+                    "Pool- / Snackbar",
+                    "Liegestühle",
+                    "Sonnenschirme",
+                    "Whirlpool (gegen Gebühr)",
+                    "Sonnenterrasse",
+                    "Dampfbad (gegen Gebühr)",
+                    "Massage (gegen Gebühr)",
+                    "Wasserski",
+                    "Tauchen",
+                    "Windsurfen (gegen Gebühr)",
+                    "Tischtennis",
+                    "Aerobic",
+                    "Fitness-Studio",
+                    "Reiten",
+                    "Fahrrad/Mountainbike (gegen Gebühr)",
+                    "Basketball",
+                    "Beach-Volleyball",
+                    "Billard / Snooker (gegen Gebühr)",
+                    "Boccia",
+                    "Minigolf",
+                    "Golf",
+                    "Tennis",
+                    "Anzahl der Pools"
+                ]
+            },
+            {
+                "name": "distances",
+                "attribute": "Strand 300m"
+            }
+        ]
+    },
+    "category": "",
+    "email": "itmanager@sun-connect-aqua-resort.com",
+    "longitude": "11.005910898148",
+    "region_code": ""
+}}}

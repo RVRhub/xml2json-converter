@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<result found="1">
+  <data id="0">
+    <Hotelname>Casa Cook</Hotelname>
+    <Hotelkategorie>5</Hotelkategorie>
+    <Stadtname>Kolymbia</Stadtname>
+    <Zielgebietsname>Rhodos</Zielgebietsname>
+    <Stadtnummer>275</Stadtnummer>
+    <Zielgebietsnummer>59</Zielgebietsnummer>
+    <Landname>Griechenland</Landname>
+    <Landcode>GR</Landcode>
+    <Veranstaltercode>NEC</Veranstaltercode>
+    <datestart>2018-11-01</datestart>
+    <dateend>2028-10-31</dateend>
+    <GeoData>
+      <GiataID>411144</GiataID>
+      <Latitude>36.242173102697</Latitude>
+      <Longitude>28.155241510417</Longitude>
+      <Accuracy>1</Accuracy>
+    </GeoData>
+    <Objectcode>K7651Z</Objectcode>
+    <Objectcodes>
+      <oc seq="1">K7651Z</oc>
+    </Objectcodes>
+    <Text lang="de"><![CDATA[Dieses hervorragende Hotel, das sich in Kolymbia befindet, ist nur f&#252;r Erwachsene. Die Unterkunft befindet sich nahe der wichtigsten &#246;ffentlichen Verkehrsmittel der Stadt. Die Einrichtung ist 800 m von dem n&#228;chsten Strand entfernt. G&#228;ste k&#246;nnen den Flughafen in 30. 0 km erreichen. Die Unterkunft ist 25. 0 km vom Hafen entfernt. Dieses Hotel umfasst insgesamt 97 G&#228;stezimmer. Das Hotel wurde 2015 gebaut. Diese Einrichtung eignet sich dank der vorhandenen Internetverbindung f&#252;r einen produktiven Aufenthalt. Au&#223;erdem ist eine Rezeption vorhanden, die den ganzen Tag lang besetzt ist. Kinderbetten sind in dieser Einrichtung nicht verf&#252;gbar. Auf dem Gel&#228;nde sind keine Haustiere gestattet. Der Parkplatz kann f&#252;r alle, die mit dem Auto anreisen, n&#252;tzlich sein. Gesch&#228;ftsreisende k&#246;nnen die Meeting-Einrichtungen nutzen.]]></Text>
+    <Landkarte>https://m.giatamedia.com/access/map.php?cc=GR&amp;di=59&amp;ci=275</Landkarte>
+    <climate kind="destination" id="59">
+      <day_temperature>
+        <month1>12</month1>
+        <month2>12</month2>
+        <month3>13</month3>
+        <month4>16</month4>
+        <month5>20</month5>
+        <month6>23</month6>
+        <month7>28</month7>
+        <month8>29</month8>
+        <month9>27</month9>
+        <month10>21</month10>
+        <month11>17</month11>
+        <month12>14</month12>
+      </day_temperature>
+      <night_temperature>
+        <month1>7</month1>
+        <month2>8</month2>
+        <month3>9</month3>
+        <month4>11</month4>
+        <month5>15</month5>
+        <month6>19</month6>
+        <month7>21</month7>
+        <month8>22</month8>
+        <month9>19</month9>
+        <month10>15</month10>
+        <month11>12</month11>
+        <month12>9</month12>
+      </night_temperature>
+      <sunshine>
+        <month1>5</month1>
+        <month2>5</month2>
+        <month3>7</month3>
+        <month4>9</month4>
+        <month5>10</month5>
+        <month6>12</month6>
+        <month7>13</month7>
+        <month8>12</month8>
+        <month9>11</month9>
+        <month10>8</month10>
+        <month11>6</month11>
+        <month12>4</month12>
+      </sunshine>
+      <rainday>
+        <month1>14</month1>
+        <month2>10</month2>
+        <month3>8</month3>
+        <month4>3</month4>
+        <month5>3</month5>
+        <month6>0</month6>
+        <month7>0</month7>
+        <month8>0</month8>
+        <month9>1</month9>
+        <month10>6</month10>
+        <month11>7</month11>
+        <month12>13</month12>
+      </rainday>
+      <water_temperature>
+        <month1>17</month1>
+        <month2>16</month2>
+        <month3>16</month3>
+        <month4>17</month4>
+        <month5>19</month5>
+        <month6>21</month6>
+        <month7>23</month7>
+        <month8>25</month8>
+        <month9>24</month9>
+        <month10>22</month10>
+        <month11>20</month11>
+        <month12>18</month12>
+      </water_temperature>
+    </climate>
+    <KatalogID>20477</KatalogID>
+    <Katalogseite>0</Katalogseite>
+    <Preisseite>0</Preisseite>
+    <Katalogname>Zusatzprodukte 8</Katalogname>
+    <Veranstaltername>Neckermann</Veranstaltername>
+    <VeranstalterID>186</VeranstalterID>
+    <KataloghotelID>12770950</KataloghotelID>
+    <KatalogSaisonTyp>E</KatalogSaisonTyp>
+    <Bildfile typ="R" seq="1" size="074" width="74" height="52" id="F3D2125559A7AA7DD09E8011308A648A">https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/giata/411144/image029.jpg</Bildfile>
+    <Bildfile typ="R" seq="1" size="150" width="150" height="120" id="419836391AB7F1BD86D406D029EE9C9F">https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/giata/411144/image030.jpg</Bildfile>
+    <Bildfile typ="R" seq="1" size="320" width="320" height="226" id="3FD2C2F53C04A097A7F951C254F1200D">https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/giata/411144/image031.jpg</Bildfile>
+    <Bildfile typ="R" seq="1" size="800" width="800" height="564" id="E8641586FF432A5C21344AA68F5F6E77">https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/giata/411144/image032.jpg</Bildfile>
+    <Bildfile typ="F" seq="2" size="074" width="74" height="53" id="0A09D3D1E7A2E1B3E46ABEC9BB9E2457">https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/giata/411144/image033.jpg</Bildfile>
+    <Bildfile typ="F" seq="2" size="150" width="150" height="120" id="C070FFB8E43B75F6DA50BE03FB52DDDB">https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/giata/411144/image034.jpg</Bildfile>
+    <Bildfile typ="F" seq="2" size="320" width="320" height="229" id="0D742C84E15531841D67D4D72D18C1B1">https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/giata/411144/image035.jpg</Bildfile>
+    <Bildfile typ="F" seq="2" size="800" width="800" height="572" id="29369EDE140637CB44E0AB69047A0EFD">https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/giata/411144/image036.jpg</Bildfile>
+    <Bildfile typ="BA" seq="3" size="074" width="74" height="56" id="D52DB63AD9DCC823AEA807BE2FE9AE06">https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/giata/411144/image037.jpg</Bildfile>
+    <Bildfile typ="BA" seq="3" size="150" width="150" height="120" id="727A0B2E0E974F2E35DF4F9D9D95A281">https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/giata/411144/image038.jpg</Bildfile>
+    <Bildfile typ="BA" seq="3" size="320" width="320" height="242" id="1BC7E80CF75F0FBD409034A64C540256">https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/giata/411144/image039.jpg</Bildfile>
+    <Bildfile typ="BA" seq="3" size="800" width="794" height="600" id="DF5A97E05459256357E27A80A356A351">https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/giata/411144/image040.jpg</Bildfile>
+    <Bildfile typ="A" seq="4" size="074" width="74" height="43" id="AD50D06ADD856809F8C9F5C4CDA91E9B">https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/giata/411144/image041.jpg</Bildfile>
+    <Bildfile typ="A" seq="4" size="150" width="150" height="120" id="26940F487DCAD753B155A64A6B466CA0">https://storage.googleapis.com/thumbor.prod.promaterial.com/trial_task/giata/411144/image042.jpg</Bildfile>
+    <Textfile>http://t8.giatamedia.de/00/c2/de/c2de86.txt</Textfile>
+    <Klimagrafik>https://m.giatamedia.com/klimagross/gr-059-0000.gif</Klimagrafik>
+    <AGB>https://m.giatamedia.com/agb/?cid=20477&amp;t=txt</AGB>
+    <TDS>http://giata.tds.tourias.de/?khid=12770950&amp;uid=173998</TDS>
+  </data>
+</result>
